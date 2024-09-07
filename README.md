@@ -3,5 +3,7 @@
 # Start with jsdeliver
 the free cdn server 
 
-https://cdn.jsdelivr.net/gh/wf-ping/js_hub@main/snow.js
-https://cdn.jsdelivr.net/gh/wf-ping/js_hub@main/sakura.js
+- snow
+  https://cdn.jsdelivr.net/gh/wf-ping/js_hub@main/snow.js
+- sakura
+  https://cdn.jsdelivr.net/gh/wf-ping/js_hub@main/sakura.js
